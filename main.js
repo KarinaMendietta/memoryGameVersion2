@@ -7,8 +7,8 @@ let segundoResultado = null;
 let movimientos = 0;
 let aciertos = 0;
 let temporizador = false; 
-let timer =30;
-let timerInicial =30;
+let timer =120;
+let timerInicial =120;
 let tiempoRegresivoId = null ;
 
 let clickAudio = new Audio('./sounds/click.mp3');
